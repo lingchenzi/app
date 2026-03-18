@@ -1,3 +1,13 @@
-存放本人使用的app相关规则，需要的，请自取。
+# App 相关规则与图标库
 
-如果修改文件，请备注原作者，谢谢。
+存放本人使用的app相关规则、图标等，使用请备注来源。
+
+更新时间：2026-03-18
+
+---
+
+## App icon
+
+- chatgpt: https://github.com/lingchenzi/app/blob/main/icon/chatgpt.png
+- gemini: https://github.com/lingchenzi/app/blob/main/icon/gemini.png
+- claude: https://github.com/lingchenzi/app/blob/main/icon/claude.png
