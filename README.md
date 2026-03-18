@@ -8,6 +8,6 @@
 
 ## App icon
 
-- chatgpt: https://github.com/lingchenzi/app/blob/main/icon/chatgpt.png
-- gemini: https://github.com/lingchenzi/app/blob/main/icon/gemini.png
-- claude: https://github.com/lingchenzi/app/blob/main/icon/claude.png
+- ChatGPT: https://raw.githubusercontent.com/lingchenzi/app/main/quantumultx/icon/chatgpt.png
+- Gemini: https://raw.githubusercontent.com/lingchenzi/app/main/quantumultx/icon/gemini.png
+- Claude: https://raw.githubusercontent.com/lingchenzi/app/main/quantumultx/icon/claude.png
